@@ -34,7 +34,7 @@ void main()
    else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
-       printf("Two options left are:\n\t2. Loader \t3. Operating system\n");
+       printf("50:50 lifeline is activated..\nTwo options left are:\n\t2. Loader \t3. Operating system\n");
        scanf("%d",&n);
         if(n==3)
          {  
@@ -58,7 +58,7 @@ void main()
    else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
-       printf("Make your first choice:\n");
+       printf("Double-dip lifeline is activated..\nMake your first choice:\n");
        scanf("%d",&n);
         if(n==3)
            {  
@@ -193,7 +193,7 @@ void main()
     else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
-       printf("Two options left are:\n\t2. Open source software \t3. Horizontal market software\n");
+       printf("50:50 lifeline is activated..\nTwo options left are:\n\t2. Open source software \t3. Horizontal market software\n");
        scanf("%d",&n);
         if(n==3)
          {  
@@ -225,7 +225,7 @@ void main()
    else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
-       printf("Make your first choice:\n");
+       printf("Double-dip lifeline is activated..\nMake your first choice:\n");
        scanf("%d",&n);
         if(n==3)
            {  
@@ -366,7 +366,7 @@ void main()
     else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
-       printf("Two options left are:\n\t1. Spam \t2. Spoof\n");
+       printf("50:50 lifeline is activated..\nTwo options left are:\n\t1. Spam \t2. Spoof\n");
        scanf("%d",&n);
         if(n==1)
          {  
@@ -397,7 +397,7 @@ void main()
    else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
-       printf("Make your first choice:\n");
+       printf("Double-dip lifeline is activated..\nMake your first choice:\n");
        scanf("%d",&n);
         if(n==1)
            {  
@@ -538,7 +538,7 @@ void main()
     else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
-       printf("Two options left are:\n\t1. COBOL \t2. Java\n");
+       printf("50:50 lifeline is activated..\nTwo options left are:\n\t1. COBOL \t2. Java\n");
        scanf("%d",&n);
         if(n==2)
          {  
@@ -569,7 +569,7 @@ void main()
    else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
-       printf("Make your first choice:\n");
+       printf("Double-dip lifeline is activated..\nMake your first choice:\n");
        scanf("%d",&n);
         if(n==2)
            {  
@@ -710,7 +710,7 @@ void main()
     else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
-       printf("Two options left are:\n\t1. Code \t4. Character\n");
+       printf("50:50 lifeline is activated..\nTwo options left are:\n\t1. Code \t4. Character\n");
        scanf("%d",&n);
         if(n==4)
          {  
@@ -741,7 +741,7 @@ void main()
    else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
-       printf("Make your first choice:\n");
+       printf("Double-dip lifeline is activated..\nMake your first choice:\n");
        scanf("%d",&n);
         if(n==4)
            {  
@@ -882,7 +882,7 @@ void main()
     else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
-       printf("Two options left are:\n\t1. LAN \t2. DSL\n");
+       printf("50:50 lifeline is activated..\nTwo options left are:\n\t1. LAN \t2. DSL\n");
        scanf("%d",&n);
         if(n==1)
          {  
@@ -914,7 +914,7 @@ void main()
    else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
-       printf("Make your first choice:\n");
+       printf("Double-dip lifeline is activated..\nMake your first choice:\n");
        scanf("%d",&n);
         if(n==1)
            {  
@@ -1055,7 +1055,7 @@ void main()
     else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
-       printf("Two options left are:\n\t3. central processing unit \t4. motherboard\n");
+       printf("50:50 lifeline is activated..\nTwo options left are:\n\t3. central processing unit \t4. motherboard\n");
        scanf("%d",&n);
         if(n==3)
          {  
@@ -1087,7 +1087,7 @@ void main()
    else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
-       printf("Make your first choice:\n");
+       printf("Double-dip lifeline is activated..\nMake your first choice:\n");
        scanf("%d",&n);
         if(n==3)
            {  
@@ -1228,7 +1228,7 @@ void main()
     else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
-       printf("Two options left are:\n\t1. Digital versatile disks \t3.Memory disks\n");
+       printf("50:50 lifeline is activated..\nTwo options left are:\n\t1. Digital versatile disks \t3.Memory disks\n");
        scanf("%d",&n);
         if(n==1)
          {  
@@ -1259,7 +1259,7 @@ void main()
    else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
-       printf("Make your first choice:\n");
+       printf("Double-dip lifeline is activated..\nMake your first choice:\n");
        scanf("%d",&n);
         if(n==1)
            {  
@@ -1400,7 +1400,7 @@ void main()
     else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
-       printf("Two options left are:\n\t1. assembling \t4. formatting\n");
+       printf("50:50 lifeline is activated..\nTwo options left are:\n\t1. assembling \t4. formatting\n");
        scanf("%d",&n);
         if(n==4)
          {  
@@ -1431,7 +1431,7 @@ void main()
    else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
-       printf("Make your first choice:\n");
+       printf("Double-dip lifeline is activated..\nMake your first choice:\n");
        scanf("%d",&n);
         if(n==4)
            {  
@@ -1572,7 +1572,7 @@ void main()
     else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
-       printf("Two options left are:\n\t3. Calculator \t4. Analytical Engine\n");
+       printf("50:50 lifeline is activated..\nTwo options left are:\n\t3. Calculator \t4. Analytical Engine\n");
        scanf("%d",&n);
         if(n==4)
          {  
@@ -1603,7 +1603,7 @@ void main()
    else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
-       printf("Make your first choice:\n");
+       printf("Double-dip lifeline is activated..\nMake your first choice:\n");
        scanf("%d",&n);
         if(n==4)
            {  
@@ -1744,7 +1744,7 @@ void main()
     else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
-       printf("Two options left are:\n\t1. RAM \t4. ROM chip\n");
+       printf("50:50 lifeline is activated..\nTwo options left are:\n\t1. RAM \t4. ROM chip\n");
        scanf("%d",&n);
         if(n==3)
          {  
@@ -1775,7 +1775,7 @@ void main()
    else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
-       printf("Make your first choice:\n");
+       printf("Double-dip lifeline is activated..\nMake your first choice:\n");
        scanf("%d",&n);
         if(n==3)
            {  
@@ -1917,7 +1917,7 @@ void main()
     else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
-       printf("Two options left are:\n\t3. motherboard \t4. coprocessor\n");
+       printf("50:50 lifeline is activated..\nTwo options left are:\n\t3. motherboard \t4. coprocessor\n");
        scanf("%d",&n);
         if(n==3)
          {  
@@ -1948,7 +1948,7 @@ void main()
    else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
-       printf("Make your first choice:\n");
+       printf("Double-dip lifeline is activated..\nMake your first choice:\n");
        scanf("%d",&n);
         if(n==3)
            {  
@@ -2090,7 +2090,7 @@ void main()
     else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
-       printf("Two options left are:\n\t3. Tape drive \t4. Processor\n");
+       printf("50:50 lifeline is activated..\nTwo options left are:\n\t3. Tape drive \t4. Processor\n");
        scanf("%d",&n);
         if(n==4)
          {  
@@ -2121,7 +2121,7 @@ void main()
    else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
-       printf("Make your first choice:\n");
+       printf("Double-dip lifeline is activated..\nMake your first choice:\n");
        scanf("%d",&n);
         if(n==4)
            {  
@@ -2263,7 +2263,7 @@ void main()
     else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
-       printf("Two options left are:\n\t2. AT \t3. ATX\n");
+       printf("50:50 lifeline is activated..\nTwo options left are:\n\t2. AT \t3. ATX\n");
        scanf("%d",&n);
         if(n==3)
          {  
@@ -2294,7 +2294,7 @@ void main()
    else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
-       printf("Make your first choice:\n");
+       printf("Double-dip lifeline is activated..\nMake your first choice:\n");
        scanf("%d",&n);
         if(n==3)
            {  
