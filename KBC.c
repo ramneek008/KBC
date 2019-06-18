@@ -4,8 +4,8 @@ void main()
  int i,n=0,amount=0,m,x=0,y=0;
  printf("Welcome to the game KAUN BANEGA CROREPATI\n\nIt contains 14 QUESTIONS starting from Rs.5,000 reaching till Rs.7,00,00,000.\n\nYou have 2 lifelines : 50:50(two options will be filtered) and double-dip(you can make choice two times).\nYou can quit anytime by typing 'quit' but you can't quit once you activate double-dip.\nTo activate 50:50 lifeline,type '5050'; for double-dip, type '22'.\n\n");
  printf("Prizes:\n 14\t7CRORE\n 13\t3CRORE\n 12\t1CRORE\n 11\t50,00,000\n 10\t25,00,000\n 9\t12,50,000\n 8\t6,40,000\n 7\t3,20,000\n 6\t1,60,000\n 5\t80,000\n 4\t40,000\n 3\t20,000\n 2\t10,000\n 1\t5,000\n\n");
- printf("Select your milestone question (that will guarantee some winnings if correct). If your answer gets wrong you will get this selected prize. If you haven't reached this question and give wrong answer you will be left with no winnings.\n\n");
- printf("Milestone Question:");
+ printf("Select your checkpoint question (that will guarantee some winnings if correct). If your answer gets wrong you will get this selected prize. If you haven't reached this question and give wrong answer you will be left with no winnings.\n\n");
+ printf("Checkpoint Question:");
  scanf("%d",&m);
  for(i=1;i<=14;i++)
  {
