@@ -1,18 +1,19 @@
 # KBC
-Code of KBC game  with lifelines in C.
+Code of KBC game  with 2 lifelines (50:50 and double-dip) in C.
 
 Welcome to the game "KAUN BANEGA CROREPATI".
 
 RULES of the game:
 
 It contains 14 QUESTIONS starting from Rs.5,000 reaching till Rs.7,00,00,000. 
-You have 2 lifelines : 50:50(two options will be filtered) and double-dip(you can make choice two times).
-You can quit anytime by typing 'quit' but you can't quit once you activate double-dip.
+You have 2 lifelines : 50:50(two options will be filtered) and double-dip(you can make choice two times). Each lifeline can only be taken once.
+You can activate 50:50 lifeline by typing "5050" and for double-dip, type "22"
+You can quit anytime by typing "quit" but you can't quit once you activate double-dip.
 
 Prizes:
 
-14  ->  7CRORE
-13  ->  3CRORE
+14    7CRORE
+13    3CRORE
 12    1CRORE
 11    50,00,000
 10    25,00,000
