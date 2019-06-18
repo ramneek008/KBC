@@ -12,19 +12,19 @@ You can quit anytime by typing "quit" but you can't quit once you activate doubl
 
 Prizes:
 
-14    7CRORE<br>
-13    3CRORE<br>
-12    1CRORE<br>
-11    50,00,000<br>
-10    25,00,000<br>
-9     12,50,000<br>
-8     6,40,000<br>
-7     3,20,000<br>
-6     1,60,000<br>
-5     80,000<br>
-4     40,000<br>
-3     20,000<br>
-2     10,000<br>
-1     5,000<br>
+<pre>14    7CRORE
+13    3CRORE
+12    1CRORE
+11    50,00,000
+10    25,00,000
+9     12,50,000
+8     6,40,000
+7     3,20,000
+6     1,60,000
+5     80,000
+4     40,000
+3     20,000
+2     10,000
+1     5,000</pre>
 
 Select your checkpoint question (that will guarantee some winnings if correct). If your answer gets wrong you will get this selected prize. If you haven't reached this question and give wrong answer you will be left with no winnings.
