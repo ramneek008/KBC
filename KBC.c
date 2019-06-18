@@ -60,7 +60,6 @@ void main()
               printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
              i=15;
            }
-       
    }
    
    else if(n==22 && y==0)
@@ -156,9 +155,7 @@ void main()
                                 printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
                                 i=15;
                                }
-                               
                            }
-                          
                        }
                    else
                    {
@@ -171,7 +168,6 @@ void main()
            }
    }
 
-   
    else
    {
        if(i<=m)
@@ -228,7 +224,7 @@ void main()
    
    else if(n==5050 && x!=0)
    {
-       printf("you have already used 50:50 liifeline\n");
+       printf("You have already used 50:50 liifeline.\n");
        i=1;
        continue;
    }
@@ -326,9 +322,7 @@ void main()
                                 printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
                                 i=15;
                                }
-                               
                            }
-                          
                        }
                    else
                    {
@@ -428,7 +422,7 @@ void main()
                {
                    printf("You have last chance:\n");
                    scanf("%d",&n);
-                   if(n==3)
+                   if(n==1)
                    {  
                      printf("You have entered the correct answer. You have won Rs.20000.\n\nYour Next Question is:\n");
                    }
@@ -480,7 +474,7 @@ void main()
                        {
                            printf("You can't quit now. Enter your answer:\n");
                            scanf("%d",&n);
-                           if(n==3)
+                           if(n==1)
                            {  
                              printf("You have entered the correct answer. You have won Rs.20000.\n\nYour Next Question is:\n");
                            }
@@ -488,7 +482,7 @@ void main()
                            {
                                printf("You have last chance:\n");
                                scanf("%d",&n);
-                               if(n==3)
+                               if(n==1)
                                {  
                                  printf("You have entered the correct answer. You have won Rs.20000.\n\nYour Next Question is:\n");
                                }
@@ -500,9 +494,7 @@ void main()
                                 printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
                                 i=15;
                                }
-                               
                            }
-                          
                        }
                    else
                    {
@@ -594,7 +586,7 @@ void main()
            {
              printf("You can't quit now. Enter your answer:\n");
              scanf("%d",&n);
-             if(n==3)
+             if(n==2)
                {  
                  printf("You have entered the correct answer. You have won Rs.40000.\n\nYour Next Question is:\n");
                }
@@ -610,7 +602,7 @@ void main()
                        {
                            printf("You can't quit now. Enter your answer:\n");
                            scanf("%d",&n);
-                           if(n==3)
+                           if(n==2)
                            {  
                              printf("You have entered the correct answer. You have won Rs.40000.\n\nYour Next Question is:\n");
                            }
@@ -618,7 +610,7 @@ void main()
                            {
                                printf("You have last chance:\n");
                                scanf("%d",&n);
-                               if(n==3)
+                               if(n==2)
                                {  
                                  printf("You have entered the correct answer. You have won Rs.40000.\n\nYour Next Question is:\n");
                                }
@@ -674,9 +666,7 @@ void main()
                                 printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
                                 i=15;
                                }
-                               
                            }
-                          
                        }
                    else
                    {
@@ -848,9 +838,7 @@ void main()
                                 printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
                                 i=15;
                                }
-                               
                            }
-                          
                        }
                    else
                    {
@@ -1023,9 +1011,7 @@ void main()
                                 printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
                                 i=15;
                                }
-                               
                            }
-                          
                        }
                    else
                    {
@@ -1198,9 +1184,7 @@ void main()
                                 printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
                                 i=15;
                                }
-                               
                            }
-                          
                        }
                    else
                    {
@@ -1372,9 +1356,7 @@ void main()
                                 printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
                                 i=15;
                                }
-                               
                            }
-                          
                        }
                    else
                    {
@@ -1444,7 +1426,6 @@ void main()
               printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
              i=15;
            }
-       
    }
    
    else if(n==5050 && x!=0)
@@ -1547,9 +1528,7 @@ void main()
                                 printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
                                 i=15;
                                }
-                               
                            }
-                          
                        }
                    else
                    {
@@ -1721,9 +1700,7 @@ void main()
                                 printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
                                 i=15;
                                }
-                               
                            }
-                          
                        }
                    else
                    {
@@ -1895,9 +1872,7 @@ void main()
                                 printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
                                 i=15;
                                }
-                               
                            }
-                          
                        }
                    else
                    {
@@ -1968,7 +1943,6 @@ void main()
               printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
              i=15;
            }
-       
    }
    
    else if(n==5050 && x!=0)
@@ -2071,9 +2045,7 @@ void main()
                                 printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
                                 i=15;
                                }
-                               
                            }
-                          
                        }
                    else
                    {
@@ -2144,7 +2116,6 @@ void main()
               printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
              i=15;
            }
-       
    }
    
    else if(n==5050 && x!=0)
@@ -2219,7 +2190,7 @@ void main()
            {
                 printf("You have last chance:\n");
                    scanf("%d",&n);
-                   if(n==3)
+                   if(n==4)
                    {  
                      printf("You have entered the correct answer. You have won Rs.30000000.\n\nYour Next Question is:\n");
                    }
@@ -2247,9 +2218,7 @@ void main()
                                 printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
                                 i=15;
                                }
-                               
                            }
-                          
                        }
                    else
                    {
@@ -2320,7 +2289,6 @@ void main()
               printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
              i=15;
            }
-       
    }
    
    else if(n==5050 && x!=0)
@@ -2423,9 +2391,7 @@ void main()
                                 printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
                                 i=15;
                                }
-                               
                            }
-                          
                        }
                    else
                    {
