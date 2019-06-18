@@ -328,7 +328,7 @@ void main()
            }
    }
    
-   else if(n==5050 && y!=0)
+   else if(n==22 && y!=0)
    {
        printf("You have already used double-dip liifeline.\n");
        i=1;
@@ -500,7 +500,7 @@ void main()
            }
    }
    
-   else if(n==5050 && y!=0)
+   else if(n==22 && y!=0)
    {
        printf("You have already used double-dip liifeline.\n");
        i=2;
@@ -672,7 +672,7 @@ void main()
            }
    }
    
-   else if(n==5050 && y!=0)
+   else if(n==22 && y!=0)
    {
        printf("You have already used double-dip liifeline.\n");
        i=3;
@@ -844,7 +844,7 @@ void main()
            }
    }
    
-   else if(n==5050 && y!=0)
+   else if(n==22 && y!=0)
    {
        printf("you have already used double-dip liifeline\n");
        i=4;
@@ -1017,7 +1017,7 @@ void main()
            }
    }
    
-   else if(n==5050 && y!=0)
+   else if(n==22 && y!=0)
    {
        printf("you have already used double-dip liifeline\n");
        i=5;
@@ -1190,7 +1190,7 @@ void main()
            }
    }
    
-   else if(n==5050 && y!=0)
+   else if(n==22 && y!=0)
    {
        printf("You have already used double-dip liifeline.\n");
        i=6;
@@ -1362,7 +1362,7 @@ void main()
            }
    }
    
-   else if(n==5050 && y!=0)
+   else if(n==22 && y!=0)
    {
        printf("You have already used double-dip liifeline.\n");
        i=7;
@@ -1534,7 +1534,7 @@ void main()
            }
    }
    
-   else if(n==5050 && y!=0)
+   else if(n==22 && y!=0)
    {
        printf("you have already used double-dip liifeline\n");
        i=8;
@@ -1706,7 +1706,7 @@ void main()
            }
    }
    
-   else if(n==5050 && y!=0)
+   else if(n==22 && y!=0)
    {
        printf("You have already used double-dip liifeline.\n");
        i=9;
@@ -1878,7 +1878,7 @@ void main()
            }
    }
    
-   else if(n==5050 && y!=0)
+   else if(n==22 && y!=0)
    {
        printf("You have already used double-dip liifeline.\n");
        i=10;
@@ -2051,7 +2051,7 @@ void main()
            }
    }
    
-   else if(n==5050 && y!=0)
+   else if(n==22 && y!=0)
    {
        printf("You have already used double-dip liifeline.\n");
        i=11;
@@ -2224,7 +2224,7 @@ void main()
            }
    }
    
-   else if(n==5050 && y!=0)
+   else if(n==22 && y!=0)
    {
        printf("You have already used double-dip liifeline.\n");
        i=12;
@@ -2397,7 +2397,7 @@ void main()
            }
    }
    
-   else if(n==5050 && y!=0)
+   else if(n==22 && y!=0)
    {
        printf("You have already used double-dip liifeline.\n");
        i=13;
