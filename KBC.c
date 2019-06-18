@@ -1,10 +1,3 @@
-/******************************************************************************
-
-                            Online C Compiler.
-                Code, Compile, Run and Debug C program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
 #include<stdio.h>
 void main()
 {
@@ -38,7 +31,7 @@ void main()
        i=15;
    }
    
-   else if(n==5050 && x==0)
+   else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
        printf("Two options left are:\n\t2. Loader \t3. Operating system\n");
@@ -62,7 +55,7 @@ void main()
            }
    }
    
-   else if(n==22 && y==0)
+   else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
        printf("Make your first choice:\n");
@@ -197,7 +190,7 @@ void main()
        i=15;
    }
    
-    else if(n==5050 && x==0)
+    else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
        printf("Two options left are:\n\t2. Open source software \t3. Horizontal market software\n");
@@ -229,7 +222,7 @@ void main()
        continue;
    }
    
-   else if(n==22 && y==0)
+   else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
        printf("Make your first choice:\n");
@@ -370,7 +363,7 @@ void main()
        i=15;
    }
    
-    else if(n==5050 && x==0)
+    else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
        printf("Two options left are:\n\t1. Spam \t2. Spoof\n");
@@ -401,7 +394,7 @@ void main()
        continue;
    }
    
-   else if(n==22 && y==0)
+   else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
        printf("Make your first choice:\n");
@@ -542,7 +535,7 @@ void main()
        i=15;
    }
    
-    else if(n==5050 && x==0)
+    else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
        printf("Two options left are:\n\t1. COBOL \t2. Java\n");
@@ -573,7 +566,7 @@ void main()
        continue;
    }
    
-   else if(n==22 && y==0)
+   else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
        printf("Make your first choice:\n");
@@ -714,7 +707,7 @@ void main()
        i=15;
    }
    
-    else if(n==5050 && x==0)
+    else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
        printf("Two options left are:\n\t1. Code \t4. Character\n");
@@ -745,7 +738,7 @@ void main()
        continue;
    }
    
-   else if(n==22 && y==0)
+   else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
        printf("Make your first choice:\n");
@@ -886,7 +879,7 @@ void main()
        i=15;
    }
    
-    else if(n==5050 && x==0)
+    else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
        printf("Two options left are:\n\t1. LAN \t2. DSL\n");
@@ -918,7 +911,7 @@ void main()
        continue;
    }
    
-   else if(n==22 && y==0)
+   else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
        printf("Make your first choice:\n");
@@ -1059,7 +1052,7 @@ void main()
        i=15;
    }
    
-    else if(n==5050 && x==0)
+    else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
        printf("Two options left are:\n\t3. central processing unit \t4. motherboard\n");
@@ -1091,7 +1084,7 @@ void main()
        continue;
    }
    
-   else if(n==22 && y==0)
+   else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
        printf("Make your first choice:\n");
@@ -1232,7 +1225,7 @@ void main()
        i=15;
    }
    
-    else if(n==5050 && x==0)
+    else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
        printf("Two options left are:\n\t1. Digital versatile disks \t3.Memory disks\n");
@@ -1263,7 +1256,7 @@ void main()
        continue;
    }
    
-   else if(n==22 && y==0)
+   else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
        printf("Make your first choice:\n");
@@ -1404,7 +1397,7 @@ void main()
        i=15;
    }
    
-    else if(n==5050 && x==0)
+    else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
        printf("Two options left are:\n\t1. assembling \t4. formatting\n");
@@ -1435,7 +1428,7 @@ void main()
        continue;
    }
    
-   else if(n==22 && y==0)
+   else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
        printf("Make your first choice:\n");
@@ -1576,7 +1569,7 @@ void main()
        i=15;
    }
    
-    else if(n==5050 && x==0)
+    else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
        printf("Two options left are:\n\t3. Calculator \t4. Analytical Engine\n");
@@ -1607,7 +1600,7 @@ void main()
        continue;
    }
    
-   else if(n==22 && y==0)
+   else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
        printf("Make your first choice:\n");
@@ -1748,7 +1741,7 @@ void main()
        i=15;
    }
    
-    else if(n==5050 && x==0)
+    else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
        printf("Two options left are:\n\t1. RAM \t4. ROM chip\n");
@@ -1779,7 +1772,7 @@ void main()
        continue;
    }
    
-   else if(n==22 && y==0)
+   else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
        printf("Make your first choice:\n");
@@ -1921,7 +1914,7 @@ void main()
        i=15;
    }
    
-    else if(n==5050 && x==0)
+    else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
        printf("Two options left are:\n\t3. motherboard \t4. coprocessor\n");
@@ -1952,7 +1945,7 @@ void main()
        continue;
    }
    
-   else if(n==22 && y==0)
+   else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
        printf("Make your first choice:\n");
@@ -2094,7 +2087,7 @@ void main()
        i=15;
    }
    
-    else if(n==5050 && x==0)
+    else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
        printf("Two options left are:\n\t3. Tape drive \t4. Processor\n");
@@ -2125,7 +2118,7 @@ void main()
        continue;
    }
    
-   else if(n==22 && y==0)
+   else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
        printf("Make your first choice:\n");
@@ -2233,7 +2226,7 @@ void main()
    
    else if(n==5050 && y!=0)
    {
-       printf("you have already used double-dip liifeline\n");
+       printf("You have already used double-dip liifeline.\n");
        i=12;
        continue;
    }
@@ -2267,7 +2260,7 @@ void main()
        i=15;
    }
    
-    else if(n==5050 && x==0)
+    else if(n==5050 && x==0)                         //50:50 lifeline
    {
        x++;
        printf("Two options left are:\n\t2. AT \t3. ATX\n");
@@ -2298,7 +2291,7 @@ void main()
        continue;
    }
    
-   else if(n==22 && y==0)
+   else if(n==22 && y==0)                         //Double-dip lifeline
    {
        y++;
        printf("Make your first choice:\n");
