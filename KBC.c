@@ -1,9 +1,15 @@
+/******************************************************************************
 
+                            Online C Compiler.
+                Code, Compile, Run and Debug C program online.
+Write your code in this editor and press "Run" button to compile and execute it.
+
+*******************************************************************************/
 #include<stdio.h>
 void main()
 {
- int i,n=0,amount=0,m;
- printf("Welcome to the game KAUN BANEGA CROREPATI\n\nIt contains 14 QUESTIONS starting from Rs.5,000 reaching till Rs.7,00,00,000.\n\nYou have 2 lifelines : 50:50(two options will be filtered) and double-dip(you can make choice two times).\nYou can quit anytime by typing 'quit' but you can't quit once you activate double-dip.\n\n");
+ int i,n=0,amount=0,m,x=0,y=0;
+ printf("Welcome to the game KAUN BANEGA CROREPATI\n\nIt contains 14 QUESTIONS starting from Rs.5,000 reaching till Rs.7,00,00,000.\n\nYou have 2 lifelines : 50:50(two options will be filtered) and double-dip(you can make choice two times).\nYou can quit anytime by typing 'quit' but you can't quit once you activate double-dip.\nTo activate 50:50 lifeline,type '5050'; for double-dip, type '22'.\n\n");
  printf("Prizes:\n 14\t7CRORE\n 13\t3CRORE\n 12\t1CRORE\n 11\t50,00,000\n 10\t25,00,000\n 9\t12,50,000\n 8\t6,40,000\n 7\t3,20,000\n 6\t1,60,000\n 5\t80,000\n 4\t40,000\n 3\t20,000\n 2\t10,000\n 1\t5,000\n\n");
  printf("Select your milestone question (that will guarantee some winnings if correct). If your answer gets wrong you will get this selected prize. If you haven't reached this question and give wrong answer you will be left with no winnings.\n\n");
  printf("Milestone Question:");
@@ -13,6 +19,7 @@ void main()
   n=0;
   switch(i)
   {
+      
   case 1:
    printf("Q1. A computer cannot boot if it does not have the _____ :\n\t1. Compiler \t2. Loader \t3. Operating system \t4. Assembler\n");
    scanf("%d",&n);
@@ -24,11 +31,147 @@ void main()
    {  
      printf("You have entered the correct answer. You have won Rs.5000.\n\nYour Next Question is:\n");
    }
+   
    else if(n==0)
    {
        printf("Thanks for playing the game. You have won Rs.0");
        i=15;
    }
+   
+   else if(n==5050 && x==0)
+   {
+       x++;
+       printf("Two options left are:\n\t2. Loader \t3. Operating system\n");
+       scanf("%d",&n);
+        if(n==3)
+         {  
+            printf("You have entered the correct answer. You have won Rs.5000.\n\nYour Next Question is:\n");
+         }
+         else if(n==0)
+          {
+             printf("Thanks for playing the game. You have won Rs.0");
+             i=15;
+          }
+          else
+           {
+              if(i<=m)
+              printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.0");
+              else
+              printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
+             i=15;
+           }
+       
+   }
+   
+   else if(n==22 && y==0)
+   {
+       y++;
+       printf("Make your first choice:\n");
+       scanf("%d",&n);
+        if(n==3)
+           {  
+             printf("You have entered the correct answer. You have won Rs.5000.\n\nYour Next Question is:\n");
+           }
+        else if(n==0)
+           {
+             printf("You can't quit now");
+             scanf("%d",&n);
+             if(n==3)
+               {  
+                 printf("You have entered the correct answer. You have won Rs.5000.\n\nYour Next Question is:\n");
+               }
+               else
+               {
+                   printf("You have last chance:\n");
+                   scanf("%d",&n);
+                   if(n==3)
+                   {  
+                     printf("You have entered the correct answer. You have won Rs.5000.\n\nYour Next Question is:\n");
+                   }
+                   else if(n==0)
+                       {
+                           printf("You can't quit now");
+                           scanf("%d",&n);
+                           if(n==3)
+                           {  
+                             printf("You have entered the correct answer. You have won Rs.5000.\n\nYour Next Question is:\n");
+                           }
+                           else
+                           {
+                               printf("You have last chance:\n");
+                               scanf("%d",&n);
+                               if(n==3)
+                               {  
+                                 printf("You have entered the correct answer. You have won Rs.5000.\n\nYour Next Question is:\n");
+                               }
+                               else
+                               {
+                                   if(i<=m)
+                                   printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.0");
+                                   else
+                                printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
+                                i=15;
+                               }
+                           }
+                       }
+                   else
+                   {
+                       if(i<=m)
+                       printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.0");
+                       else
+                    printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
+                    i=15;
+                   }
+               }
+           }
+           else
+           {
+                printf("You have last chance:\n");
+                   scanf("%d",&n);
+                   if(n==3)
+                   {  
+                     printf("You have entered the correct answer. You have won Rs.5000.\n\nYour Next Question is:\n");
+                   }
+                   else if(n==0)
+                       {
+                           printf("You can't quit now");
+                           scanf("%d",&n);
+                           if(n==3)
+                           {  
+                             printf("You have entered the correct answer. You have won Rs.5000.\n\nYour Next Question is:\n");
+                           }
+                           else
+                           {
+                               printf("You have last chance:\n");
+                               scanf("%d",&n);
+                               if(n==3)
+                               {  
+                                 printf("You have entered the correct answer. You have won Rs.5000.\n\nYour Next Question is:\n");
+                               }
+                               else
+                               {
+                                   if(i<=m)
+                                   printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.0");
+                                   else
+                                printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
+                                i=15;
+                               }
+                               
+                           }
+                          
+                       }
+                   else
+                   {
+                       if(i<=m)
+                       printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.0");
+                       else
+                    printf("You have entered the wrong answer. Better Luck Next Time. You have earned Rs.%d",amount);
+                    i=15;
+                   }
+           }
+   }
+
+   
    else
    {
        if(i<=m)
