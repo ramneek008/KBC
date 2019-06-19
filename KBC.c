@@ -2267,7 +2267,7 @@ void main()
        scanf("%d",&n);
         if(n==3)
          {  
-            printf("You have entered the correct answer. You have won Rs.70000000.\n\nYour Next Question is:\n");
+            printf("You have entered the correct answer. You have won Rs.70000000.\n\nCONGRATULATIONS");
          }
          else if(n==0)
           {
@@ -2298,7 +2298,7 @@ void main()
        scanf("%d",&n);
         if(n==3)
            {  
-             printf("You have entered the correct answer. You have won Rs.70000000.\n\nYour Next Question is:\n");
+             printf("You have entered the correct answer. You have won Rs.70000000.\n\nCONGRATULATIONS");
            }
         else if(n==0)
            {
@@ -2306,7 +2306,7 @@ void main()
              scanf("%d",&n);
              if(n==3)
                {  
-                 printf("You have entered the correct answer. You have won Rs.70000000.\n\nYour Next Question is:\n");
+                 printf("You have entered the correct answer. You have won Rs.70000000.\n\nCONGRATULATIONS");
                }
                else
                {
@@ -2314,7 +2314,7 @@ void main()
                    scanf("%d",&n);
                    if(n==3)
                    {  
-                     printf("You have entered the correct answer. You have won Rs.70000000.\n\nYour Next Question is:\n");
+                     printf("You have entered the correct answer. You have won Rs.70000000.\n\nCONGRATULATIONS");
                    }
                    else if(n==0)
                        {
@@ -2322,7 +2322,7 @@ void main()
                            scanf("%d",&n);
                            if(n==3)
                            {  
-                             printf("You have entered the correct answer. You have won Rs.70000000.\n\nYour Next Question is:\n");
+                             printf("You have entered the correct answer. You have won Rs.70000000.\n\nCONGRATULATIONS");
                            }
                            else
                            {
@@ -2330,7 +2330,7 @@ void main()
                                scanf("%d",&n);
                                if(n==3)
                                {  
-                                 printf("You have entered the correct answer. You have won Rs.70000000.\n\nYour Next Question is:\n");
+                                 printf("You have entered the correct answer. You have won Rs.70000000.\n\nCONGRATULATIONS");
                                }
                                else
                                {
@@ -2358,7 +2358,7 @@ void main()
                    scanf("%d",&n);
                    if(n==3)
                    {  
-                     printf("You have entered the correct answer. You have won Rs.70000000.\n\nYour Next Question is:\n");
+                     printf("You have entered the correct answer. You have won Rs.70000000.\n\nCONGRATULATIONS");
                    }
                    else if(n==0)
                        {
@@ -2366,7 +2366,7 @@ void main()
                            scanf("%d",&n);
                            if(n==3)
                            {  
-                             printf("You have entered the correct answer. You have won Rs.70000000.\n\nYour Next Question is:\n");
+                             printf("You have entered the correct answer. You have won Rs.70000000.\n\nCONGRATULATIONS");
                            }
                            else
                            {
@@ -2374,7 +2374,7 @@ void main()
                                scanf("%d",&n);
                                if(n==3)
                                {  
-                                 printf("You have entered the correct answer. You have won Rs.70000000.\n\nYour Next Question is:\n");
+                                 printf("You have entered the correct answer. You have won Rs.70000000.\n\nCONGRATULATIONS");
                                }
                                else
                                {
