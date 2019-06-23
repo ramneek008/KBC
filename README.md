@@ -8,7 +8,7 @@ RULES of the game:
 It contains 14 QUESTIONS starting from Rs.5,000 reaching till Rs.7,00,00,000. <br>
 You have 2 lifelines : 50:50(two options will be filtered) and double-dip(you can make choice two times). Each lifeline can only be taken once.<br>
 You can activate 50:50 lifeline by typing "5050" and for double-dip, type "22".<br>
-You can quit anytime by typing "quit" but you can't quit once you activate double-dip.<br>
+You can quit anytime by typing "0" but you can't quit once you activate double-dip.<br>
 
 Prizes:
 
