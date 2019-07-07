@@ -1,7 +1,7 @@
 # KBC
 Code of KBC game  with 2 lifelines (50:50 and double-dip) in C.
 
-Welcome to the game "KAUN BANEGA CROREPATI".
+Welcome to the game "KAUN BANEGA CROREPATI". It is a .c file so compile it in a gcc compiler.
 
 RULES of the game:
 
@@ -28,3 +28,5 @@ Prizes:
 1     5,000</pre>
 
 Select your checkpoint question (that will guarantee some winnings if correct). If your answer gets wrong you will get this selected prize. If you haven't reached this question and give wrong answer you will be left with no winnings.
+
+BEST OF LUCK !!
